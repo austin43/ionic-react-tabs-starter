@@ -1,0 +1,7 @@
+{
+  "name": "ionic-react-tabs-starter",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
